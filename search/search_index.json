@@ -2,23 +2,23 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Welcome to My pynotebook\n\n\n\u8fd9\u91cc\u5c06\u4e0a\u4f20\u4e00\u4e9b\u81ea\u5df1\u7684\njupyter notebook\n\u3002\n\n\n\u5df2\u4e0a\u4f20\u7684notebook\n\n\n\n\nmy-notebook\n - \u7b2c\u4e00\u4e2a\nnotebook\n\u3002\n\n\n\n\n\u5173\u4e8e\n\n\n\u6709\u95ee\u9898\u6216\u8005\u60f3\u4ea4\u6d41\u8bf7\u53bb\nIssues\n\u3002",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-my-pynotebook",
+            "text": "\u8fd9\u91cc\u5c06\u4e0a\u4f20\u4e00\u4e9b\u81ea\u5df1\u7684 jupyter notebook \u3002",
+            "title": "Welcome to My pynotebook"
         },
         {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
+            "location": "/#notebook",
+            "text": "my-notebook  - \u7b2c\u4e00\u4e2a notebook \u3002",
+            "title": "\u5df2\u4e0a\u4f20\u7684notebook"
         },
         {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
+            "location": "/#_1",
+            "text": "\u6709\u95ee\u9898\u6216\u8005\u60f3\u4ea4\u6d41\u8bf7\u53bb Issues \u3002",
+            "title": "\u5173\u4e8e"
         },
         {
             "location": "/frist/",
