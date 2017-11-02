@@ -20,6 +20,7 @@ for dog in thing:
 	else:
 		pdog=dog[0:len(dog)-1]+r'</br>'+'\n'
 		f2.write(pdog)
+f2.write('\n')
 f1.close()
 f2.close()
 		
